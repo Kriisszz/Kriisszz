@@ -3,6 +3,9 @@
 __This repository was made in my early stage of my studies:__
 [Link to my repository](https://github.com/Kriisszz)<br>
 __I'am currently working on my [BYB projects](https://github.com/Kriisszz/byb_project)__
+<br>
+<img src="main.jpg" alt="Coder">
+[](main.jpg)
 <!--
 **Kriisszz/Kriisszz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
